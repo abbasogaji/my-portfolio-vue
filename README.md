@@ -1,5 +1,5 @@
 # vue-abbasogaji
-
+This is my portfolio project, containing and blog and all
 ## Project setup
 ```
 npm install
