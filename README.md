@@ -1,6 +1,7 @@
 # vue-abbasogaji
 This is my portfolio project, containing and blog and all
 ## Project setup
+to install run the command below
 ```
 npm install
 ```
