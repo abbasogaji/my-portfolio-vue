@@ -1,6 +1,7 @@
 # vue-abbasogaji
 
 ## Project setup
+to install run the command below
 ```
 npm install
 ```
